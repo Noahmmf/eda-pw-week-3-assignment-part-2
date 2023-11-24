@@ -16,7 +16,7 @@ console.log("count from 0 to 5");
 //need to change 'i < 4' to 'i < 6' to count 1 per loop, up to 5, starting from 0.
 for (let i = 0; i < 6; i++) {
   console.log(i);
-} // end for
+} // end for 
 
 // 1.b. TODO: Write a for loop to console.log the numbers from 3 to 5
 //   - Which part of the example loop do you need to change to do this?
